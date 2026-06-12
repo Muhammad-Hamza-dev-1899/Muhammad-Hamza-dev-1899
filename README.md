@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F0C29,35:302B63,70:6D28D9,100:8B5CF6&text=Muhammad%20Hamza&fontColor=FFFFFF&fontSize=54&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Software%20Engineer%20%7C%20AI%20%26%20Data%20Enthusiast&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:0F0C29,35:302B63,70:6D28D9,100:8B5CF6&amp;text=Muhammad%20Hamza&amp;fontColor=FFFFFF&amp;fontSize=54&amp;fontAlignY=38&amp;desc=Computer%20Science%20Student%20-%20Aspiring%20Software%20Engineer%20-%20AI%20and%20Data%20Learner&amp;descAlignY=58&amp;animation=fadeIn" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=950&lines=Building+practical+software+with+code%2C+data%2C+and+AI;Software+Engineering+%7C+Databases+%7C+AI%2FML+%7C+GUI+Applications;Focused+on+reliable%2C+scalable%2C+and+user-centered+engineering" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=950&lines=Computer+Science+Student+at+NUST;Building+practical+software+with+code+data+and+AI;Java+SQLite+C%2B%2B+Python+and+GUI+Applications;Learning+by+building+real+academic+and+practice+projects" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -14,9 +14,8 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Location-Pakistan-312E81?style=flat-square&logo=googlemaps&logoColor=white" />
 <a href="https://muhammad-hamza-dev-1899.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-6D28D9?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-6D28D9?style=flat-square&logo=githubpages&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/muhammad-hamza-a1b65938b">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=flat-square&logo=linkedin&logoColor=white" />
@@ -40,11 +39,11 @@
 
 ## About
 
-I am a **Computer Science student at the National University of Sciences and Technology**, focused on building practical software solutions using **code, data, and AI**. My work sits at the intersection of **software engineering, database systems, AI/ML fundamentals, GUI application development, and product-focused problem solving**.
+I am a **BS Computer Science student at the National University of Sciences and Technology**, currently focused on software development, artificial intelligence, machine learning fundamentals, databases, and object-oriented programming.
 
-I enjoy turning ideas into working applications by combining strong programming fundamentals with curiosity, experimentation, and hands-on engineering. Whether I am designing a database-backed desktop app, building a JavaFX navigation tool, experimenting with machine learning concepts, or creating a portfolio interface, I focus on writing software that is structured, useful, and understandable.
+I enjoy exploring how software and AI are used in real-world products, then trying to implement those ideas through code. My projects include database-backed applications, GUI-based tools, mathematical visualization work, and academic hardware-level digital logic projects.
 
-My long-term goal is to grow into a strong software engineer who can contribute to enterprise teams by building **reliable, scalable, secure, and user-centered technology**.
+My goal is to grow into a strong software engineer by building practical projects, improving my fundamentals, and learning through hands-on development.
 
 <br/>
 
@@ -52,15 +51,15 @@ My long-term goal is to grow into a strong software engineer who can contribute 
 <tr>
 <td width="50%">
 
-### Engineering Focus
+### Current Focus
 
-- Software Engineering Fundamentals  
+- Software Development  
 - Object-Oriented Programming  
-- Database Design & Integration  
+- Database Design  
 - GUI Application Development  
-- AI / Machine Learning Foundations  
-- Mathematical & Data Visualization  
-- Git, GitHub, and Developer Tooling  
+- Machine Learning Fundamentals  
+- Data and Mathematical Visualization  
+- Digital Logic Fundamentals  
 
 </td>
 <td width="50%">
@@ -68,11 +67,11 @@ My long-term goal is to grow into a strong software engineer who can contribute 
 ### Open To
 
 - Software Engineering Internships  
-- AI / Machine Learning Internships  
-- Database-Focused Projects  
+- AI and Machine Learning Internships  
+- Database Projects  
 - Java / Python / C++ Projects  
-- Academic Research-Oriented Development  
-- Open Source Collaboration  
+- Academic Collaboration  
+- Open Source Learning  
 
 </td>
 </tr>
@@ -84,49 +83,46 @@ My long-term goal is to grow into a strong software engineer who can contribute 
 
 <div align="center">
 
-### Languages
+### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,sql&theme=dark" />
-
-<br/><br/>
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css&theme=dark" />
 
 <br/><br/>
 
-### Backend & Databases
+### Databases
 
-<img src="https://skillicons.dev/icons?i=java,python,mysql,sqlite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" />
 
 <br/><br/>
 
-### Cloud, DevOps & Tooling
+### Tools and Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,linux&theme=dark" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/JavaFX-Desktop%20Apps-4F46E5?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Java%20Swing-GUI%20Development-6D28D9?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaFX-GUI%20Applications-4F46E5?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Java%20Swing-Desktop%20GUI-6D28D9?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/SFML-C%2B%2B%20Graphics-7C3AED?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Kaggle-Machine%20Learning-312E81?style=for-the-badge&logo=kaggle&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite%20Browser-Database%20Tool-312E81?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Kaggle-ML%20Learning-4F46E5?style=for-the-badge&logo=kaggle&logoColor=white" />
 
 </div>
 
 ---
 
-## AI / ML Expertise
+## Skills
 
-| Domain | Proficiency | Details |
+| Area | Current Level | Details |
 |---|---:|---|
-| Machine Learning Fundamentals | Intermediate | Learning supervised learning, regression, classification, model training workflows, and evaluation basics |
-| Python for Data Science | Intermediate | Working with Python, NumPy, Pandas, Matplotlib, and data-oriented programming fundamentals |
-| Mathematical Foundations | Intermediate | Focused on statistics, linear algebra, calculus-based visualization, and analytical thinking |
-| Kaggle Practice | Beginner+ | Exploring practical ML notebooks, datasets, and model-building workflows |
-| AI Product Thinking | Beginner+ | Interested in how AI can be converted into useful applications and developer tools |
-| Data Visualization | Intermediate | Built graphing and visualization-oriented projects using C++ and GUI libraries |
+| C++ | Beginner to Intermediate | Used for academic programming and GUI-based graphing calculator work |
+| Python | Beginner to Intermediate | Used for learning data science, NumPy, Pandas, Matplotlib, and ML basics |
+| Java | Beginner to Intermediate | Used for JavaFX, Java Swing, and database application projects |
+| SQL | Beginner to Intermediate | Used for database schema design and SQLite integration |
+| SQLite | Intermediate | Used in the Clixky database systems project |
+| GUI Development | Beginner to Intermediate | Experience with JavaFX, Java Swing, and SFML |
+| Machine Learning Fundamentals | Beginner | Learning supervised learning, model training basics, and data workflows |
+| Digital Logic | Beginner | Worked with Proteus, ModelSim, and breadboard-based circuit implementation |
 
 ---
 
@@ -137,20 +133,19 @@ My long-term goal is to grow into a strong software engineer who can contribute 
 
 <br/>
 
-A Reddit-inspired desktop application created as a Database Systems project. The system focuses on user accounts, communities, posts, comments, votes, messages, saved posts, follows, reports, and admin-oriented moderation concepts.
+A Reddit-inspired desktop application built as a Database Systems project. The project focused on users, posts, communities, comments, votes, saved posts, messages, reports, and moderation-style workflows.
 
 | Category | Details |
 |---|---|
 | Stack | Java, SQLite, IntelliJ IDEA, SQLite Browser, GitHub |
-| Scale | 10 users, 8 communities, 20 posts, 43 comments, 119 post votes, 105 comment votes, 13 messages, 27 saved posts, 40 follows, 8 reports |
-| Performance | Structured relational schema with realistic sample data and verification scripts |
-| Security | Simulated hashed passwords, role-based admin/user concepts, report/moderation workflows |
-| Impact | Strengthened database schema design, Java-database integration, teamwork, and product modeling |
+| Type | Academic database systems project |
+| My Work | SQLite schema design, technology stack decisions, GUI improvements, and Java-SQLite integration |
+| Focus | Database design, application-database integration, teamwork, and structured product development |
 | Repository | [DB_Semester_2_Project](https://github.com/Muhammad-Hamza-dev-1899/DB_Semester_2_Project) |
 
-**Professional Explanation**
+**What I learned**
 
-Clixky demonstrates practical understanding of relational database design and application integration. The project models a social media platform with users, communities, posts, comments, voting, saved content, direct messages, and moderation reports. My role focused on schema design, stack decisions, GUI improvement, and SQLite integration with the Java interface.
+This project gave me hands-on experience in designing a relational database, connecting it with a Java application, managing structured data, and working on a team-based software project.
 
 </details>
 
@@ -161,20 +156,19 @@ Clixky demonstrates practical understanding of relational database design and ap
 
 <br/>
 
-A modern portfolio website designed to present academic background, technical skills, projects, and contact details in a clean and recruiter-friendly format.
+A personal portfolio website created to present my academic background, skills, projects, and contact information in a clean and professional format.
 
 | Category | Details |
 |---|---|
-| Stack | HTML, CSS, JavaScript, GitHub Pages |
-| Scale | Single-page personal portfolio with sections for About, Skills, Projects, and Contact |
-| Performance | Lightweight static website optimized for fast loading and direct navigation |
-| Security | Static deployment with minimal attack surface |
-| Impact | Creates a professional online presence for internship and networking opportunities |
+| Stack | HTML, CSS, JavaScript |
+| Type | Personal portfolio website |
+| Focus | Web structure, responsive sections, content presentation, and GitHub Pages deployment |
 | Repository | [Muhammad-Hamza-dev-1899.github.io](https://github.com/Muhammad-Hamza-dev-1899/Muhammad-Hamza-dev-1899.github.io) |
+| Live Site | [Portfolio Website](https://muhammad-hamza-dev-1899.github.io/) |
 
-**Professional Explanation**
+**What I learned**
 
-The portfolio website communicates my engineering profile, academic journey, and project experience. It is designed as a professional landing page for recruiters, technical teams, and collaborators who want a quick overview of my capabilities.
+This project helped me build a public online presence and practice presenting projects, skills, and academic background in a recruiter-friendly way.
 
 </details>
 
@@ -185,20 +179,18 @@ The portfolio website communicates my engineering profile, academic journey, and
 
 <br/>
 
-A C++ GUI-based graphing calculator created during the first semester to explore mathematical visualization and practical GUI programming.
+A C++ GUI-based graphing calculator built during my first semester after learning graphing concepts in Calculus.
 
 | Category | Details |
 |---|---|
 | Stack | C++, SFML, Microsoft Visual Studio |
-| Scale | First complete visual software project |
-| Performance | Desktop-based graphical rendering using SFML |
-| Security | Local desktop application with no external data exposure |
-| Impact | Introduced GUI development, mathematical visualization, independent research, and non-console software design |
-| Repository | Academic / Local Project |
+| Type | Academic GUI project |
+| Focus | Mathematical visualization, GUI development, and independent technical research |
+| Repository | Not uploaded publicly yet |
 
-**Professional Explanation**
+**What I learned**
 
-This project helped me move beyond basic console programming by building a functional visual interface for graph representation. It strengthened my understanding of GUI programming, mathematical thinking, and self-directed technical learning.
+This was my first complete software project with a visual user interface. It helped me move beyond console programming and understand how mathematical ideas can be represented through software.
 
 </details>
 
@@ -209,20 +201,18 @@ This project helped me move beyond basic console programming by building a funct
 
 <br/>
 
-An offline Java application designed to help users navigate between points inside the NUST campus and access route-related information without relying on an internet connection.
+An offline Java application designed to help users navigate between points inside the NUST campus and access route-related information.
 
 | Category | Details |
 |---|---|
 | Stack | Java, JavaFX, IntelliJ IDEA |
-| Scale | Individual academic project focused on campus navigation |
-| Performance | Offline desktop application designed around local campus data |
-| Security | Local-first architecture with no required external services |
-| Impact | Improved object-oriented design, JavaFX development, user-centered thinking, and independent project execution |
-| Repository | Academic / Local Project |
+| Type | Individual academic application |
+| Focus | Object-oriented programming, JavaFX, local navigation logic, and user-focused design |
+| Repository | Not uploaded publicly yet |
 
-**Professional Explanation**
+**What I learned**
 
-NUST Navigator was built to solve a real campus navigation problem. The project improved my ability to design practical applications, work with JavaFX, and think about how software can serve users in a local environment.
+This project strengthened my object-oriented programming skills and helped me understand how software can solve real problems in a local campus environment.
 
 </details>
 
@@ -233,20 +223,18 @@ NUST Navigator was built to solve a real campus navigation problem. The project 
 
 <br/>
 
-A focused Java Swing practice project developed to understand desktop GUI controls, buttons, events, and application structure.
+A small Java Swing practice project built to understand desktop GUI controls and event-driven programming.
 
 | Category | Details |
 |---|---|
 | Stack | Java, Java Swing, Visual Studio Code |
-| Scale | Small practice project |
-| Performance | Lightweight event-driven desktop application |
-| Security | Local-only utility application |
-| Impact | Improved understanding of event-driven programming and GUI component behavior |
-| Repository | Practice / Local Project |
+| Type | Practice project |
+| Focus | GUI components, buttons, timing logic, and event handling |
+| Repository | Not uploaded publicly yet |
 
-**Professional Explanation**
+**What I learned**
 
-This project helped me understand how Java Swing applications handle interface elements, button events, and timing logic. It strengthened my foundation in desktop application development.
+This project improved my understanding of Java Swing, event-driven programming, and the basic structure of desktop applications.
 
 </details>
 
@@ -257,47 +245,72 @@ This project helped me understand how Java Swing applications handle interface e
 
 <br/>
 
-A Digital Logic Design project focused on understanding password-checking systems at the circuit and hardware level.
+A Digital Logic Design project focused on understanding password-checking systems at the circuit level.
 
 | Category | Details |
 |---|---|
 | Stack | Proteus, ModelSim, Breadboard Hardware |
-| Scale | Team-based digital logic project |
-| Performance | Simulated and hardware-tested circuit workflow |
-| Security | Demonstrates basic digital lock and password verification concepts |
-| Impact | Connected digital logic theory with practical circuit design, simulation, teamwork, and debugging |
-| Repository | Academic Hardware Project |
+| Type | Academic hardware and simulation project |
+| Focus | Digital logic, simulation, hardware patching, testing, and teamwork |
+| Repository | Not uploaded publicly yet |
 
-**Professional Explanation**
+**What I learned**
 
-This project explored how digital locks and password-checking systems work at a hardware level. My contributions included simulation work, project planning, timeline coordination, and hardware patching using breadboards and electronic components.
+This project helped me connect digital logic theory with real circuit implementation using simulation tools and breadboard hardware.
 
 </details>
 
 ---
 
-## Experience
+## Public GitHub Repositories
 
-### Software Engineering Student Developer · National University of Sciences and Technology  
-**2025 — Present**
+| Repository | Type | Language / Stack | Notes |
+|---|---|---|---|
+| [DB_Semester_2_Project](https://github.com/Muhammad-Hamza-dev-1899/DB_Semester_2_Project) | Academic project | Java | Database Systems project |
+| [Muhammad-Hamza-dev-1899.github.io](https://github.com/Muhammad-Hamza-dev-1899/Muhammad-Hamza-dev-1899.github.io) | Portfolio site | HTML | Personal portfolio website |
+| [my-portfolio](https://github.com/Muhammad-Hamza-dev-1899/my-portfolio) | Fork / setup repo | JavaScript | Used for `.is-a.dev` subdomain setup |
+| [hands-on-labs](https://github.com/Muhammad-Hamza-dev-1899/hands-on-labs) | Fork / learning labs | Jupyter Notebook | IBM SkillsBuild AI Builders Challenge learning labs |
 
-I am building a strong engineering foundation through academic coursework, self-learning, and project-based development. My experience includes Java desktop applications, SQLite database design, C++ GUI programming, Python data science fundamentals, and AI/ML learning workflows.
+---
 
-**Scope of Work**
+## Learning and Coursework
 
-- Designed and implemented academic software projects using Java, C++, Python, and SQL  
-- Built database-backed application workflows with SQLite and Java integration  
-- Developed GUI applications using JavaFX, Java Swing, and SFML  
-- Practiced data science and machine learning fundamentals using Python-based tools  
-- Used GitHub for version control, project hosting, and portfolio presentation  
-- Focused on writing structured, understandable, and practical software  
+<div align="center">
+
+<img src="https://img.shields.io/badge/CS50-Introduction%20to%20Computer%20Science-4F46E5?style=for-the-badge&logo=harvard&logoColor=white" />
+<img src="https://img.shields.io/badge/Coursera-Stanford%20Statistics%20Math%20Course-6D28D9?style=for-the-badge&logo=coursera&logoColor=white" />
+<img src="https://img.shields.io/badge/freeCodeCamp-Python%20for%20Data%20Science-7C3AED?style=for-the-badge&logo=freecodecamp&logoColor=white" />
+<img src="https://img.shields.io/badge/Kaggle-Machine%20Learning%20Mini%20Course-312E81?style=for-the-badge&logo=kaggle&logoColor=white" />
+<img src="https://img.shields.io/badge/DeepLearning.AI-Supervised%20Machine%20Learning%20Ongoing-4F46E5?style=for-the-badge&logo=coursera&logoColor=white" />
+
+</div>
+
+---
+
+## Current Academic Profile
+
+### BS Computer Science Student · National University of Sciences and Technology  
+**2025 — 2029 expected**
+
+I am currently building my foundation in computer science through university coursework, self-learning, and project-based development.
+
+**Areas I am working on**
+
+- Programming fundamentals  
+- Object-oriented programming  
+- Database systems  
+- GUI application development  
+- Data structures fundamentals  
+- Machine learning fundamentals  
+- Digital logic and hardware simulation  
+- Git and GitHub-based project workflow  
 
 <br/>
 
 <img src="https://img.shields.io/badge/Java-Application%20Development-4F46E5?style=flat-square&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLite-Database%20Design-6D28D9?style=flat-square&logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-GUI%20Programming-7C3AED?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-Data%20Science-312E81?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-Data%20Science%20Learning-312E81?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-Version%20Control-111827?style=flat-square&logo=github&logoColor=white" />
 
 ---
@@ -308,82 +321,12 @@ I am building a strong engineering foundation through academic coursework, self-
 
 | Recognition | Details |
 |---|---|
-| BS Computer Science Student | Studying at the National University of Sciences and Technology |
-| Portfolio Deployment | Published a personal developer portfolio using GitHub Pages |
-| Database Systems Project | Built Clixky, a Java + SQLite social media database application |
-| GUI Development Practice | Built JavaFX, Java Swing, and SFML-based application projects |
-| AI / ML Learning Path | Practicing machine learning fundamentals through Coursera, Kaggle, and Python-based workflows |
-| GitHub Profile Growth | Actively building public repositories, portfolio projects, and technical identity |
-
-</div>
-
----
-
-## Certifications
-
-### Verified Learning & Coursework
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Harvard-CS50%20Introduction%20to%20Computer%20Science-4F46E5?style=for-the-badge&logo=harvard&logoColor=white" />
-<img src="https://img.shields.io/badge/DeepLearning.AI-Supervised%20Machine%20Learning-6D28D9?style=for-the-badge&logo=coursera&logoColor=white" />
-<img src="https://img.shields.io/badge/freeCodeCamp-Python%20for%20Data%20Science-7C3AED?style=for-the-badge&logo=freecodecamp&logoColor=white" />
-<img src="https://img.shields.io/badge/Kaggle-Machine%20Learning%20Mini%20Course-312E81?style=for-the-badge&logo=kaggle&logoColor=white" />
-
-</div>
-
-<br/>
-
-### AWS
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AWS-Cloud%20Foundations%20Learning%20Track-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-
-</div>
-
-### Oracle
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Oracle-Database%20Foundations%20Learning%20Track-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-
-</div>
-
-### NPTEL
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/NPTEL-Computer%20Science%20Coursework%20Track-4F46E5?style=for-the-badge&logo=bookstack&logoColor=white" />
-
-</div>
-
-### Cisco
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Cisco-Networking%20Fundamentals%20Learning%20Track-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-
-</div>
-
----
-
-## Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/">
-  <img src="https://img.shields.io/badge/LeetCode-Practice%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-<a href="https://www.geeksforgeeks.org/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Learning%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-</a>
-<a href="https://www.hackerrank.com/">
-  <img src="https://img.shields.io/badge/HackerRank-Coding%20Practice-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
-</a>
-<a href="https://www.codechef.com/">
-  <img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
+| BS Computer Science at NUST | Currently studying Computer Science |
+| Portfolio Website | Built and deployed a personal portfolio website using GitHub Pages |
+| Database Systems Project | Built Clixky using Java and SQLite as an academic project |
+| GUI Development Practice | Worked with JavaFX, Java Swing, and SFML |
+| Digital Logic Project | Worked on a password checker / breaker circuit using simulation and hardware tools |
+| AI and Data Learning | Practicing machine learning fundamentals through online learning and hands-on labs |
 
 </div>
 
@@ -427,44 +370,36 @@ I am building a strong engineering foundation through academic coursework, self-
 
 ---
 
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Muhammad-Hamza-dev-1899/Muhammad-Hamza-dev-1899/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-
-</div>
-
----
-
 ## Current Focus
 
 ```yaml
 Learning:
-  - Data Structures and Algorithms
-  - Object-Oriented Software Design
-  - Machine Learning Fundamentals
+  - Data Structures fundamentals
+  - Object-Oriented Programming
   - Database Systems
-  - Full Stack Development Foundations
+  - Machine Learning fundamentals
+  - Python for data science
 
 Building:
-  - Java and SQLite desktop applications
-  - Portfolio-grade GitHub projects
-  - GUI-based educational software
-  - AI and data science practice notebooks
+  - Java desktop applications
+  - SQLite database projects
+  - GUI-based academic projects
+  - Portfolio projects
+  - AI and data practice notebooks
 
 Exploring:
-  - Enterprise software engineering
-  - AI-powered developer tools
-  - Scalable application architecture
-  - Clean UI and product-focused engineering
+  - Software Engineering
+  - AI and Machine Learning
+  - Application Development
+  - Database-backed products
+  - Clean user-focused interfaces
 
 Open To:
   - Software Engineering Internships
-  - AI / ML Internships
-  - Database Engineering Projects
-  - Open Source Collaboration
-  - Technical Mentorship
+  - AI and Machine Learning Internships
+  - Database Projects
+  - Java Python and C++ Projects
+  - Open Source Learning
 ```
 
 ---
@@ -492,7 +427,7 @@ Open To:
 <br/><br/>
 
 <a href="https://muhammad-hamza-dev-1899.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Developer%20Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-6D28D9?style=for-the-badge&logo=githubpages&logoColor=white" />
 </a>
 
 </div>
@@ -503,9 +438,8 @@ Open To:
 
 <div align="center">
 
-### Building practical software with engineering discipline, curiosity, and a product mindset.
+### Building practical software through curiosity, fundamentals, and hands-on learning.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:8B5CF6,40:6D28D9,75:302B63,100:0F0C29" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=140&amp;section=footer&amp;color=0:8B5CF6,40:6D28D9,75:302B63,100:0F0C29" />
 
 </div>
-Update profile README
