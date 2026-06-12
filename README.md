@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F0C29,35:302B63,70:6D28D9,100:8B5CF6&text=Muhammad%20Hamza&fontColor=FFFFFF&fontSize=56&fontAlignY=38&desc=Computer%20Science%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20AI%20%26%20Data%20Learner&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F0C29,35:302B63,70:6D28D9,100:8B5CF6&text=Muhammad%20Hamza&fontColor=FFFFFF&fontSize=54&fontAlignY=38&desc=Computer%20Science%20Student%20-%20Software%20Engineer%20-%20AI%20and%20Data%20Learner&descAlignY=58&animation=fadeIn" />
 
 <br/>
 
@@ -10,7 +10,7 @@
 
 <img src="https://img.shields.io/badge/BS%20Computer%20Science-NUST%20SEECS-4F46E5?style=for-the-badge&logo=academia&logoColor=white" />
 <img src="https://img.shields.io/badge/Expected%20Graduation-2029-7C3AED?style=for-the-badge&logo=google-scholar&logoColor=white" />
-<img src="https://img.shields.io/badge/Semester-3%20%E2%80%A2%20BSCS--15B-8B5CF6?style=for-the-badge&logo=bookstack&logoColor=white" />
+<img src="https://img.shields.io/badge/Semester%203-BSCS--15B-8B5CF6?style=for-the-badge&logo=bookstack&logoColor=white" />
 <img src="https://img.shields.io/badge/Location-Islamabad%2C%20Pakistan-312E81?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
 <br/><br/>
@@ -49,7 +49,7 @@ I am a **BS Computer Science student at NUST SEECS**, Islamabad — one of Pakis
 
 In my first year I shipped a **Reddit-inspired desktop application** with a 15-table SQLite schema and a Java Swing UI, implemented **Dijkstra and A\* pathfinding** inside a JavaFX campus navigation tool, built a **combinational password-checker circuit** with 74LS85 comparators from schematic to breadboard, and designed a **C++ SFML graphing calculator** in my first semester. I track everything in Git, write structured lab reports, and treat each project like a production deliverable.
 
-My goal is to grow into a strong software engineer and ML practitioner by continuing to build high-quality projects, deepen my fundamentals, and contribute to real-world products.
+My goal is to grow into a strong software engineer and ML practitioner by continuing to build high-quality projects, deepening my fundamentals, and contributing to real-world products.
 
 <br/>
 
@@ -60,12 +60,12 @@ My goal is to grow into a strong software engineer and ML practitioner by contin
 ### Current Focus
 
 - Object-Oriented Design (Java · JavaFX · Design Patterns)
-- Relational Database Engineering (SQLite · Schema Design · Normalization)
+- Relational Database Engineering (SQLite · Normalization · BCNF)
 - Algorithm Design (Pathfinding · Graph Traversal · Combinational Logic)
 - Machine Learning Fundamentals (Supervised Learning · scikit-learn)
 - Data Science Tooling (NumPy · Pandas · Matplotlib)
 - Mathematical Foundations (Multivariable Calculus · Linear Algebra)
-- Digital Logic & Hardware Simulation (Proteus · ModelSim)
+- Digital Logic and Hardware Simulation (Proteus · ModelSim)
 
 </td>
 <td width="50%">
@@ -74,9 +74,9 @@ My goal is to grow into a strong software engineer and ML practitioner by contin
 
 - Software Engineering Internships
 - AI and Machine Learning Internships
-- Backend / Full-Stack Projects
+- Backend and Full-Stack Projects
 - Java · Python · C++ Collaboration
-- Database Design Consulting
+- Database Design Projects
 - Academic Research Partnerships
 - Open Source Contribution
 
@@ -96,11 +96,11 @@ My goal is to grow into a strong software engineer and ML practitioner by contin
 
 <br/><br/>
 
-### Frontend & GUI
+### Frontend and GUI
 
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/JavaFX-GUI%20Framework-4F46E5?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Java%20Swing-Desktop%20UI-6D28D9?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -108,23 +108,23 @@ My goal is to grow into a strong software engineer and ML practitioner by contin
 
 <br/><br/>
 
-### Backend & Databases
+### Backend and Databases
 
 <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" />
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/JDBC-Java%20DB%20Connectivity-4F46E5?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLite%20Browser-DB%20Management-312E81?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/Normalization-3NF%20%7C%20BCNF-6D28D9?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Schema%20Design-3NF%20and%20BCNF-6D28D9?style=for-the-badge&logo=databricks&logoColor=white" />
 
 <br/><br/>
 
-### Cloud, DevOps & Tooling
+### Cloud, DevOps and Tooling
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux&theme=dark" />
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Proteus-Circuit%20Simulation-4F46E5?style=for-the-badge&logo=electron&logoColor=white" />
 <img src="https://img.shields.io/badge/ModelSim-HDL%20Simulation-7C3AED?style=for-the-badge&logo=xilinx&logoColor=white" />
@@ -136,35 +136,35 @@ My goal is to grow into a strong software engineer and ML practitioner by contin
 
 ---
 
-## AI / ML Expertise
+## AI and ML Expertise
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
 | Supervised Learning | Beginner | Classification, regression, model evaluation with scikit-learn |
-| Data Wrangling | Beginner–Intermediate | NumPy arrays, Pandas DataFrames, data cleaning pipelines |
-| Data Visualization | Beginner–Intermediate | Matplotlib plots, statistical charts, mathematical surface rendering |
+| Data Wrangling | Beginner to Intermediate | NumPy arrays, Pandas DataFrames, data cleaning pipelines |
+| Data Visualization | Beginner to Intermediate | Matplotlib plots, statistical charts, mathematical surface rendering |
 | ML Tooling | Beginner | Kaggle notebooks, IBM SkillsBuild AI labs, Jupyter workflows |
 | Local AI Deployment | Intermediate | Running Qwen 2.5 and other models locally via Ollama on Linux |
 | Mathematical Foundations | Intermediate | Multivariable calculus, linear algebra, gradient-based optimization concepts |
-| Algorithm Design | Intermediate | Graph search (Dijkstra, A\*), combinational logic minimization (K-map, QMC) |
+| Algorithm Design | Intermediate | Graph search (Dijkstra, A*), combinational logic minimization (K-map, QMC) |
 
 ---
 
 ## Featured Projects
 
 <details>
-<summary><b>NUST Navigator — Smart Campus Navigation & Shuttle Assistant</b></summary>
+<summary><b>NUST Navigator — Smart Campus Navigation and Shuttle Assistant</b></summary>
 
 <br/>
 
-An offline Java desktop application for navigating the NUST H-12 campus, built as a solo Computer Science OOP semester project. Implements two independent pathfinding algorithms over a weighted campus graph, layered on top of a structured JavaFX interface with real map-based visuals, shuttle schedules, and accessibility metadata.
+An offline Java desktop application for navigating the NUST H-12 campus, built as a solo OOP semester project. Implements two independent pathfinding algorithms over a weighted campus graph, layered on top of a structured JavaFX interface with map-based visuals, shuttle schedules, and accessibility metadata.
 
 | Category | Details |
 |---|---|
 | Stack | Java 17, JavaFX, IntelliJ IDEA |
-| Algorithms | Dijkstra (shortest path), A\* (heuristic-guided) |
+| Algorithms | Dijkstra (shortest path), A* (heuristic-guided search) |
 | Architecture | 26-class OOP design — Nodes, Edges, Graph, PathFinder, MapRenderer, ShuttleService |
-| Performance | Sub-second route resolution across full NUST campus graph |
+| Performance | Sub-second route resolution across the full NUST campus graph |
 | Impact | Solo deliverable demonstrating production-level OOP, graph algorithms, and UI/UX thinking |
 | Status | Completed — awaiting GitHub upload |
 
@@ -196,7 +196,7 @@ Designing the schema for a social platform from scratch — thinking through man
 <br/>
 
 <details>
-<summary><b>4-Digit Password Checker Circuit — Hardware & Simulation</b></summary>
+<summary><b>4-Digit Password Checker Circuit — Hardware and Simulation</b></summary>
 
 <br/>
 
@@ -226,8 +226,8 @@ A C++ desktop graphing calculator with a real-time rendering window built using 
 | Category | Details |
 |---|---|
 | Stack | C++, SFML, Microsoft Visual Studio |
-| Features | Real-time mathematical function plotting, coordinate grid, zoom/pan |
-| Impact | Broke out of console-only programming — first complete GUI deliverable |
+| Features | Real-time mathematical function plotting, coordinate grid, zoom and pan |
+| Impact | First complete GUI deliverable — broke out of console-only programming |
 | Status | Complete — not yet uploaded publicly |
 
 Moving from terminal output to a rendered canvas in C++ was a step-change in how I think about software. This project made abstraction feel tangible.
@@ -265,7 +265,7 @@ Building and maintaining a public portfolio site early in my studies was a delib
 Enrolled in the BSCS program at SEECS, one of Pakistan's premier engineering faculties. Carrying a full course load while shipping production-quality academic projects each semester.
 
 - Designed and implemented a full relational schema (15 tables, BCNF) for a social platform in Database Systems
-- Built a graph-algorithm-driven campus navigation tool as a solo OOP project (Dijkstra + A\*)
+- Built a graph-algorithm-driven campus navigation tool as a solo OOP project (Dijkstra and A*)
 - Implemented combinational logic circuits from schematic to physical breadboard in Digital Logic Design
 - Completed derivations and computational assignments in Multivariable Calculus and Linear Algebra
 - Maintained active use of Git for all project deliverables from semester one
@@ -291,8 +291,8 @@ Enrolled in the BSCS program at SEECS, one of Pakistan's premier engineering fac
 | Database System Design | Architected a 15-table BCNF-normalized schema for a social platform |
 | Hardware Implementation | Implemented a 4-digit password checker on breadboard using 74LS85 ICs |
 | Portfolio Website Live | Built and deployed personal portfolio on GitHub Pages in semester 1 |
-| Local AI Setup | Running Ollama + Qwen 2.5 locally on Linux — RTX 4050 accelerated |
-| AI Builders Challenge | Enrolled in IBM SkillsBuild AI Builders Challenge (hands-on labs) |
+| Local AI Setup | Running Ollama and Qwen 2.5 locally on Linux — RTX 4050 accelerated |
+| AI Builders Challenge | Enrolled in IBM SkillsBuild AI Builders Challenge with hands-on labs |
 | Supervised ML Training | Active learner in DeepLearning.AI Supervised Machine Learning course |
 
 </div>
@@ -303,14 +303,14 @@ Enrolled in the BSCS program at SEECS, one of Pakistan's premier engineering fac
 
 <div align="center">
 
-### Coursera & DeepLearning.AI
+### Coursera and DeepLearning.AI
 
-<img src="https://img.shields.io/badge/Coursera-Supervised%20Machine%20Learning%20(Ongoing)-4F46E5?style=for-the-badge&logo=coursera&logoColor=white" />
-<img src="https://img.shields.io/badge/Coursera-Stanford%20Statistics%20%26%20Math-6D28D9?style=for-the-badge&logo=coursera&logoColor=white" />
+<img src="https://img.shields.io/badge/Coursera-Supervised%20Machine%20Learning%20Ongoing-4F46E5?style=for-the-badge&logo=coursera&logoColor=white" />
+<img src="https://img.shields.io/badge/Coursera-Stanford%20Statistics%20and%20Math-6D28D9?style=for-the-badge&logo=coursera&logoColor=white" />
 
 <br/><br/>
 
-### IBM & freeCodeCamp
+### IBM and freeCodeCamp
 
 <img src="https://img.shields.io/badge/IBM%20SkillsBuild-AI%20Builders%20Challenge-7C3AED?style=for-the-badge&logo=ibm&logoColor=white" />
 <img src="https://img.shields.io/badge/freeCodeCamp-Python%20for%20Data%20Science-312E81?style=for-the-badge&logo=freecodecamp&logoColor=white" />
@@ -360,8 +360,8 @@ Enrolled in the BSCS program at SEECS, one of Pakistan's premier engineering fac
 | Repository | Type | Stack | Notes |
 |---|---|---|---|
 | [DB_Semester_2_Project](https://github.com/Muhammad-Hamza-dev-1899/DB_Semester_2_Project) | Academic Project | Java · SQLite · Swing | Clixky — Reddit-inspired DB systems project |
-| [Muhammad-Hamza-dev-1899.github.io](https://github.com/Muhammad-Hamza-dev-1899/Muhammad-Hamza-dev-1899.github.io) | Portfolio Site | HTML · CSS · JS | Personal portfolio — deployed via GitHub Pages |
-| [my-portfolio](https://github.com/Muhammad-Hamza-dev-1899/my-portfolio) | Domain Setup | JavaScript | `.is-a.dev` subdomain configuration |
+| [Muhammad-Hamza-dev-1899.github.io](https://github.com/Muhammad-Hamza-dev-1899/Muhammad-Hamza-dev-1899.github.io) | Portfolio Site | HTML · CSS · JS | Personal portfolio deployed via GitHub Pages |
+| [my-portfolio](https://github.com/Muhammad-Hamza-dev-1899/my-portfolio) | Domain Setup | JavaScript | .is-a.dev subdomain configuration |
 | [hands-on-labs](https://github.com/Muhammad-Hamza-dev-1899/hands-on-labs) | Learning Labs | Jupyter Notebook | IBM SkillsBuild AI Builders Challenge labs |
 
 ---
@@ -416,15 +416,13 @@ Enrolled in the BSCS program at SEECS, one of Pakistan's premier engineering fac
 
 </div>
 
-> **Note:** To activate the snake animation, create a repo named `Muhammad-Hamza-dev-1899` and add the [GitHub Actions workflow](https://github.com/Platane/snk#readme) that generates the SVG on a schedule.
-
 ---
 
 ## Current Focus
 
 ```yaml
 Learning:
-  - Data Structures & Algorithms (graphs, trees, dynamic programming)
+  - Data Structures and Algorithms (graphs, trees, dynamic programming)
   - Object-Oriented Design Patterns
   - Relational Database Internals
   - Supervised Machine Learning (regression, classification, evaluation)
@@ -442,7 +440,7 @@ Exploring:
   - Applied ML and model deployment
   - Local AI inference (Ollama, quantized models)
   - Full-stack application development
-  - Clean, user-focused interface design
+  - Clean user-focused interface design
 
 Open To:
   - Software Engineering Internships (Pakistan or remote)
