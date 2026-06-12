@@ -331,30 +331,6 @@ Enrolled in the BSCS program at SEECS, one of Pakistan's premier engineering fac
 
 ---
 
-## Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.geeksforgeeks.org/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/">
-  <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.codechef.com/">
-  <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
-
-</div>
-
----
-
 ## Public GitHub Repositories
 
 | Repository | Type | Stack | Notes |
@@ -420,35 +396,52 @@ Enrolled in the BSCS program at SEECS, one of Pakistan's premier engineering fac
 
 ## Current Focus
 
-```yaml
-Learning:
-  - Data Structures and Algorithms (graphs, trees, dynamic programming)
-  - Object-Oriented Design Patterns
-  - Relational Database Internals
-  - Supervised Machine Learning (regression, classification, evaluation)
-  - Python for Data Science (NumPy, Pandas, Matplotlib, scikit-learn)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Building:
-  - Java desktop applications (JavaFX, Swing)
-  - SQLite-backed relational systems
-  - GUI-driven academic tools
-  - Personal portfolio projects
-  - AI and data science practice notebooks
+**📚 Learning**
+- Data Structures and Algorithms (graphs, trees, dynamic programming)
+- Object-Oriented Design Patterns
+- Relational Database Internals
+- Supervised Machine Learning (regression, classification, evaluation)
+- Python for Data Science (NumPy, Pandas, Matplotlib, scikit-learn)
 
-Exploring:
-  - Software Engineering principles and architecture
-  - Applied ML and model deployment
-  - Local AI inference (Ollama, quantized models)
-  - Full-stack application development
-  - Clean user-focused interface design
+</td>
+<td width="50%" valign="top">
 
-Open To:
-  - Software Engineering Internships (Pakistan or remote)
-  - AI and Machine Learning Internships
-  - Backend and Database Projects
-  - Java, Python, and C++ Collaboration
-  - Academic Research and Open Source Learning
-```
+**🔨 Building**
+- Java desktop applications (JavaFX, Swing)
+- SQLite-backed relational systems
+- GUI-driven academic tools
+- Personal portfolio projects
+- AI and data science practice notebooks
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🔭 Exploring**
+- Software Engineering principles and architecture
+- Applied ML and model deployment
+- Local AI inference (Ollama, quantized models)
+- Full-stack application development
+- Clean user-focused interface design
+
+</td>
+<td width="50%" valign="top">
+
+**🤝 Open To**
+- Software Engineering Internships (Pakistan or remote)
+- AI and Machine Learning Internships
+- Backend and Database Projects
+- Java, Python, and C++ Collaboration
+- Academic Research and Open Source Learning
+
+</td>
+</tr>
+</table>
 
 ---
 
